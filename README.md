@@ -20,7 +20,7 @@ Right now, I’m sharpening my core skills and turning what I learn into real pr
 ## 📌 Projects
 
 ### 🔹 Quiz App 
-A command-line quiz application built with HTML CSS & JavaScript.  
+A quiz application built with HTML CSS & JavaScript.  
 - Accepts user input  
 - Tracks score  
 - Structured using reusable logic  
