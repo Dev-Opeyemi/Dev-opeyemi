@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Opeyemi 👋
 
-<!--
-**Dev-Opeyemi/Dev-opeyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a frontend developer focused on building clean, functional, and user-friendly web applications.  
+Right now, I’m sharpening my core skills and turning what I learn into real projects.
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Currently focused on: JavaScript and core web development  
+- 📚 Background: Computer Science student  
+- 🎯 Goal: Become a solid full-stack developer and build real-world solutions  
+- ⚡ Approach: I learn by building, breaking things, and fixing them  
+
+## 🛠 Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript  
+- Git & GitHub  
+
+## 📌 Projects
+
+### 🔹 Quiz App 
+A command-line quiz application built with HTML CSS & JavaScript.  
+- Accepts user input  
+- Tracks score  
+- Structured using reusable logic  
+
+
+### 🔹 More projects coming...
+I’m actively building and improving my projects as I grow.
+
+
+## 📈 What I'm Working On
+
+- Improving my JavaScript fundamentals  
+- Writing cleaner and more structured code  
+- Learning how to build real-world web applications  
+
+
+## ⚡ Note
+
+I’m still growing, but everything here reflects what I’ve actually built and understood.  
+No shortcuts — just consistent progress.
