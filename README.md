@@ -19,7 +19,7 @@ Right now, I’m sharpening my core skills and turning what I learn into real pr
 
 ## 📌 Key Projects
 
-🔹 Quiz App: A quiz application built with HTML CSS & JavaScript.
+🔹 Quiz App: A quiz application built with HTML CSS & JavaScript.                                                                                                                           
 🔹 My personal website (incomplete): my personal website using HTML CSS & javaScript.  
 🔹 Youtube: a clone of the youtube layout using HTML & CSS.  
 
