@@ -1,4 +1,4 @@
-<img src="./banner.svg" alt="Opeyemi Olaitan — @ope-devx" width=""/>
+<img src="./banner.svg" alt="Opeyemi Olaitan — @ope-devx" width="100%"/>
 
 ## About Me 🙎
 
