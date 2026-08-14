@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
   <rect width="900" height="120" fill="#0D1117"/>
-  <rect x="48" y="90" width="40" height="2" fill="#D98B2B" opacity="0.7"/>
-  <text x="48" y="50" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="30" font-weight="600" fill="#EEEEEE" letter-spacing="-0.3">Opeyemi Olaitan</text>
-  <text x="48" y="78" font-family="'SF Mono', 'Cascadia Code', 'Fira Code', monospace" font-size="13" fill="#777777" letter-spacing="0.3">@ope-devx · software developer</text>
+  <rect x="430" y="90" width="40" height="2" fill="#D98B2B" opacity="0.7"/>
+  <text x="450" y="50" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="30" font-weight="600" fill="#EEEEEE" letter-spacing="-0.3" text-anchor="middle">Opeyemi Olaitan</text>
+  <text x="450" y="78" font-family="'SF Mono', 'Cascadia Code', 'Fira Code', monospace" font-size="13" fill="#777777" letter-spacing="0.3" text-anchor="middle">@ope-devx · software developer</text>
 </svg>
