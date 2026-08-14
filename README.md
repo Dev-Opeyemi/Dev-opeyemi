@@ -95,7 +95,6 @@ I run a web design practice building websites for Nigerian restaurants and food 
 
 &nbsp;
 
----
 ## My Socials
 
 <p align="left">
