@@ -1,89 +1,41 @@
-# Hi, I am Opeyemi Olaitan 👋
+<img src="./banner.svg" alt="Opeyemi Olaitan — @ope-devx" width="100%"/>
 
-## About me
-I'm a computer science student at the Air Force Institute of Technology, Nigeria.<br/>
-Currently focused on core frontend stack and actively building and shipping projects.
+&nbsp;
 
+I build web products for small businesses and internal tools for people who need them. Most of my work targets Nigeria's food and restaurant industry. Recently I've been working across the full stack — React on the frontend, FastAPI and PostgreSQL on the backend — and integrating LLM APIs into production tools.
 
-
-## My Stack and Tools
-
-<!-- <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p> -->
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-  &nbsp;&nbsp;
-
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="45" height="45"/>
-  &nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
-  &nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
-  &nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  &nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  &nbsp;&nbsp;
-
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="45" height="45"/>
-  &nbsp;&nbsp;
-
-  <!-- Vite -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="45" height="45"/>
-  &nbsp;&nbsp;
-
-  <!-- VS Code -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-</p>
-
-<!-- <p>
-
-</p> -->
-
-
+&nbsp;
 
 ## Projects
 
-🔹 **[Shamz Delight Café](https://was-sham-deli-cafe.netlify.app/)** — Client work
-    Café website. Responsive, production-deployed.
+**[Pineapple](https://github.com/ope-devx/PINEAPPLE_FRONTEND)** — Mobile-first solar sales CRM built for a field agent managing 20+ clients daily. In active production use. React 19, FastAPI, PostgreSQL, PWA. &nbsp;[backend →](https://github.com/ope-devx/PINEAPPLE-BACKEND)
 
+**[Prospect Tracker](https://github.com/ope-devx/PROSPECT-TRACKER-FRONTEND)** — Personal freelance sales CRM with AI-generated cold DMs and follow-ups via OpenRouter. React, FastAPI, PostgreSQL. &nbsp;[backend →](https://github.com/ope-devx/PROSPECT-TRACKER-BACKEND)
 
+**[Debate Arena](https://github.com/ope-devx/debate-arena)** — Pick a topic, choose two AI models, watch them argue. First project integrating a live LLM API. React, OpenRouter.
 
-🔹 **[Vuyani Noshery](https://vuyani-noshery.netlify.app/)** — Client work
-    Pastry business website. Responsive, production-deployed.
+**[Client Work](https://ope-devx-portfolio.vercel.app)** — Websites for Nigerian food businesses. React, Tailwind, headless CMS, Vercel/Netlify.
 
+&nbsp;
 
+## Stack
 
-🔹  **[PES — Personal Execution System](https://scheduler-5.netlify.app/)**
-    PWA study scheduler with live schedule engine, task tracker, and notification system. 
-    Built around a real university timetable. Vanilla JS, service worker, installable on mobile.
+React · Tailwind CSS · Vite · FastAPI · Python · PostgreSQL · OpenRouter · Vercel · Render · Netlify
 
-
-
-🔹 **[Pomodoro Timer](https://pomodoro-timer-two-lilac.vercel.app/)**
-    Focus timer with work/break session management.
-
+&nbsp;
 
 ## Currently
 
-- Strengthening JavaScript fundamentals
-- Learning React
+- Working through a self-directed AI Application Engineering roadmap — RAG, agents, production AI systems
+- 300-level Computer Science at the Air Force Institute of Technology
+- Building full-stack products and shipping them
 
+&nbsp;
 
 ## Contact
 
-<p>
-  <a href="mailto:johnolaitan22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[Portfolio](https://ope-devx-portfolio.vercel.app) · [Email](mailto:johnolaitan22@gmail.com)
+
+---
+
+<sub>I only list skills I've shipped with.</sub>
