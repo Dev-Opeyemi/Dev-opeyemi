@@ -96,11 +96,12 @@ I run a web design practice building websites for Nigerian restaurants and food 
 &nbsp;
 
 ---
+## My Socials
 
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/ope_devx/"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="28"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.tiktok.com/@ope_devx"><img src="https://cdn.simpleicons.org/tiktok/ffffff" alt="TikTok" width="28"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:johnolaitan22@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="28"/></a>
+  <a href="https://web.facebook.com/profile.php?id=100040419437216"><img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="28"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
