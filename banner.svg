@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a"/>
+      <stop offset="100%" style="stop-color:#111111"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="900" height="170" fill="url(#bg)"/>
+  
+  <!-- Minimal accent line -->
+  <rect x="48" y="125" width="40" height="2" fill="#D98B2B" opacity="0.7"/>
+  
+  <!-- Name -->
+  <text x="48" y="72" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="34" font-weight="600" fill="#EEEEEE" letter-spacing="-0.3">
+    Opeyemi Olaitan
+  </text>
+  
+  <!-- Handle + role -->
+  <text x="48" y="107" font-family="'SF Mono', 'Cascadia Code', 'Fira Code', monospace" font-size="14" fill="#777777" letter-spacing="0.3">
+    @ope-devx · software developer
+  </text>
+</svg>
