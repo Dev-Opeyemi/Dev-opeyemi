@@ -71,10 +71,34 @@ I run a web design practice building websites for Nigerian restaurants and food 
 
 ## Stack
 
-**Frontend** — React · Tailwind CSS · Vite · React Router · PWA  
-**Backend** — FastAPI · Python · PostgreSQL · Supabase  
-**AI / APIs** — OpenRouter · LLM APIs  
-**Deploy** — Vercel · Render · Netlify  
+**FRONTEND**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+**BACKEND & AI**
+
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+**TOOLS**
+
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF)
+![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Claude Code](https://img.shields.io/badge/Claude_Code-20232A?style=for-the-badge&logo=anthropic&logoColor=D97757)
+
+**DEPLOY**
+
+![Vercel](https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-20232A?style=for-the-badge&logo=render&logoColor=46E3B7)
+![Netlify](https://img.shields.io/badge/Netlify-20232A?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Supabase](https://img.shields.io/badge/Supabase-20232A?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 
 &nbsp;
 
