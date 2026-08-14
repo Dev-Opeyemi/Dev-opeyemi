@@ -4,7 +4,7 @@
 
 I'm Opeyemi Olaitan, a Software Developer. I builds tools that solve real problems for real people.
 
-I design and ship web products for small businesses — primarily in Nigeria's food and restaurant industry — and build internal tools that people depend on to run their operations. My work sits at the intersection of **clean frontend experiences** and **robust backend systems**, with a growing focus on **AI-powered features** that make apps smarter.
+I design and ship web products for small businesses, primarily in Nigeria's food and restaurant industry and build internal tools that people depend on to run their operations. My work sits at the intersection of **clean frontend experiences** and **robust backend systems**, with a growing focus on **AI-powered features** that make apps smarter.
 
 &nbsp;
 
@@ -43,7 +43,7 @@ My own business tool. Tracks prospects, qualifies leads, and uses AI (via OpenRo
 ### 🗣️ Debate Arena
 **AI-powered debate simulator**
 
-Pick a topic, choose two AI models, and watch them argue both sides in real time. First project integrating a live LLM API — built to understand how AI model interactions work under the hood.
+Pick a topic, choose two AI models, and watch them argue both sides in real time. First project integrating a live LLM API, built to understand how AI model interactions work under the hood.
 
 `React` `OpenRouter API` `React Router` `localStorage`
 
