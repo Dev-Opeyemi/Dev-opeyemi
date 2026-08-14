@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Opeyemi — a Software Developrt who builds tools that solve real problems for real people.
+I'm Opeyemi Olaitan, a Software Developrt who builds tools that solve real problems for real people.
 
 Not demos. Not tutorials. Software in production, used daily.
 
