@@ -10,7 +10,7 @@ I design and ship web products for small businesses — primarily in Nigeria's f
 
 &nbsp;
 
-## What I've shipped
+## What I've Built
 
 <table>
 <tr>
