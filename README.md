@@ -1,6 +1,6 @@
 <img src="./banner.svg" alt="Opeyemi Olaitan — @ope-devx" width="100%"/>
 
-&nbsp;
+## About Me
 
 I'm Opeyemi — a Software Developrt who builds tools that solve real problems for real people.
 
