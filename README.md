@@ -2,7 +2,7 @@
 
 &nbsp;
 
-I'm Opeyemi — a full-stack developer who builds tools that solve real problems for real people.
+I'm Opeyemi — a Software Developrt who builds tools that solve real problems for real people.
 
 Not demos. Not tutorials. Software in production, used daily.
 
@@ -93,8 +93,21 @@ I run a web design practice building websites for Nigerian restaurants and food 
 **Email** — johnolaitan22@gmail.com  
 **GitHub** — You're already here.
 
+
+
 &nbsp;
 
 ---
 
-<sub>I don't list skills I can't defend. Every technology on this page is something I've shipped with.</sub>
+---
+
+<p align="center">
+  <a href="https://ope-devx-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
+  <a href="mailto:johnolaitan22@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+  <a href="https://www.instagram.com/ope_devx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+  <a href="https://www.tiktok.com/@ope_devx" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+</p>
+
+
+
+
