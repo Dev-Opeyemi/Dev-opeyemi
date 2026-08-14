@@ -93,20 +93,18 @@ I run a web design practice building websites for Nigerian restaurants and food 
 **Email** — johnolaitan22@gmail.com  
 **GitHub** — You're already here.
 
-
-
 &nbsp;
 
 ---
 
----
-
 <p align="center">
-  <a href="https://ope-devx-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
-  <a href="mailto:johnolaitan22@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-  <a href="https://www.instagram.com/ope_devx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
-  <a href="https://www.tiktok.com/@ope_devx" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+  <a href="https://www.instagram.com/ope_devx/"><img src="./icons/instagram.svg" alt="Instagram" width="28"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@ope_devx"><img src="./icons/tiktok.svg" alt="TikTok" width="28"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:johnolaitan22@gmail.com"><img src="./icons/email.svg" alt="Email" width="28"/></a>
 </p>
+
+
+
 
 
 
