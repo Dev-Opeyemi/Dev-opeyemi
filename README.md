@@ -74,7 +74,7 @@ I run a web design practice building websites for Nigerian restaurants and food 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMzYxIj48cGF0aCBmaWxsPSIjMjY0REU0IiBkPSJNMTAuNyAzMjkuNUwwIDBoMjU2bC0xMC43IDMyOS41LTk3LjMgMjcuMXoiLz48cGF0aCBmaWxsPSIjMjk2NUYxIiBkPSJNMTI4IDMzMy42bDc4LjYtMjEuOCA5LjMtMTA0LjVIMTI4eiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMjggMTg3LjZINzguOWwtMy40LTM4LjRIMTI4di0zNy41SDQyLjNsLjkgMTAuMiA5LjQgMTA1LjdIMTI4ek0xMjggMjc1LjZsLS4yLjEtMzMuNy05LjEtMi4xLTI0LjJINTQuN2w0LjIgNDcuNiA2OS4xIDE5LjJ6Ii8+PHBhdGggZmlsbD0iI2VlZSIgZD0iTTEyNy42IDE4Ny42djM3LjVoNDUuN2wtNC4zIDQ4LjEtNDEuNSAxMS4ydi0uMXYzOS4xbDY5LjEtMTkuMi45LTEwLjEgNy45LTg5LjMuOS0xMC4ySDEyNy42ek0xMjcuNiAxMTEuN3Y3LjZIMTI4em0wIDBoLjR2MzcuNUgxNzN6Ii8+PC9zdmc+)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 **BACKEND & AI**
