@@ -2,40 +2,99 @@
 
 &nbsp;
 
-I build web products for small businesses and internal tools for people who need them. Most of my work targets Nigeria's food and restaurant industry. Recently I've been working across the full stack — React on the frontend, FastAPI and PostgreSQL on the backend — and integrating LLM APIs into production tools.
+I'm Opeyemi — a full-stack developer who builds tools that solve real problems for real people.
+
+Not demos. Not tutorials. Software in production, used daily.
+
+I design and ship web products for small businesses — primarily in Nigeria's food and restaurant industry — and build internal tools that people depend on to run their operations. My work sits at the intersection of **clean frontend experiences** and **robust backend systems**, with a growing focus on **AI-powered features** that make apps smarter.
 
 &nbsp;
 
-## Projects
+## What I've shipped
 
-**[Pineapple](https://github.com/ope-devx/PINEAPPLE_FRONTEND)** — Mobile-first solar sales CRM built for a field agent managing 20+ clients daily. In active production use. React 19, FastAPI, PostgreSQL, PWA. &nbsp;[backend →](https://github.com/ope-devx/PINEAPPLE-BACKEND)
+<table>
+<tr>
+<td width="50%">
 
-**[Prospect Tracker](https://github.com/ope-devx/PROSPECT-TRACKER-FRONTEND)** — Personal freelance sales CRM with AI-generated cold DMs and follow-ups via OpenRouter. React, FastAPI, PostgreSQL. &nbsp;[backend →](https://github.com/ope-devx/PROSPECT-TRACKER-BACKEND)
+### 🍍 Pineapple
+**Mobile-first solar sales CRM — in active production use**
 
-**[Debate Arena](https://github.com/ope-devx/debate-arena)** — Pick a topic, choose two AI models, watch them argue. First project integrating a live LLM API. React, OpenRouter.
+Built for a door-to-door field agent managing 20+ clients with no laptop access. Replaced a WhatsApp-notes workaround with a proper system: client pipeline tracking, appointment booking, price history logging, one-tap WhatsApp messaging.
 
-**[Client Work](https://ope-devx-portfolio.vercel.app)** — Websites for Nigerian food businesses. React, Tailwind, headless CMS, Vercel/Netlify.
+`React 19` `FastAPI` `PostgreSQL` `Tailwind CSS v4` `PWA` `Supabase`
+
+[Frontend →](https://github.com/ope-devx/PINEAPPLE_FRONTEND) · [Backend →](https://github.com/ope-devx/PINEAPPLE-BACKEND)
+
+</td>
+<td width="50%">
+
+### 🎯 Prospect Tracker
+**AI-powered freelance sales CRM**
+
+My own business tool. Tracks prospects, qualifies leads, and uses AI (via OpenRouter) to generate cold DMs and follow-up messages tailored to each prospect's profile.
+
+`React` `FastAPI` `PostgreSQL` `OpenRouter API` `Tailwind CSS` `Vite`
+
+[Frontend →](https://github.com/ope-devx/PROSPECT-TRACKER-FRONTEND) · [Backend →](https://github.com/ope-devx/PROSPECT-TRACKER-BACKEND)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗣️ Debate Arena
+**AI-powered debate simulator**
+
+Pick a topic, choose two AI models, and watch them argue both sides in real time. First project integrating a live LLM API — built to understand how AI model interactions work under the hood.
+
+`React` `OpenRouter API` `React Router` `localStorage`
+
+[Repo →](https://github.com/ope-devx/debate-arena)
+
+</td>
+<td width="50%">
+
+### 🍽️ Client Websites
+**Production sites for food businesses**
+
+I run a web design practice building websites for Nigerian restaurants and food businesses. Shipped and deployed client sites including full CMS integration, brand-aligned design systems, and menu management.
+
+`React` `Tailwind CSS` `Sveltia CMS` `Netlify` `Vercel`
+
+[Portfolio →](https://ope-devx-portfolio.vercel.app)
+
+</td>
+</tr>
+</table>
 
 &nbsp;
 
 ## Stack
 
-React · Tailwind CSS · Vite · FastAPI · Python · PostgreSQL · OpenRouter · Vercel · Render · Netlify
+**Frontend** — React · Tailwind CSS · Vite · React Router · PWA  
+**Backend** — FastAPI · Python · PostgreSQL · Supabase  
+**AI / APIs** — OpenRouter · LLM APIs  
+**Deploy** — Vercel · Render · Netlify  
 
 &nbsp;
 
-## Currently
+## Right now
 
-- Working through a self-directed AI Application Engineering roadmap — RAG, agents, production AI systems
-- 300-level Computer Science at the Air Force Institute of Technology
-- Building full-stack products and shipping them
+- 🔧 Building full-stack products with **FastAPI + PostgreSQL + React**
+- 🤖 Integrating **LLM APIs** into production tools
+- 📚 Working through a self-directed **AI Application Engineering** roadmap — RAG, agents, and production AI systems
+- 🎓 300-level **Computer Science** student at the Air Force Institute of Technology
 
 &nbsp;
 
-## Contact
+## Let's connect
 
-[Portfolio](https://ope-devx-portfolio.vercel.app) · [Email](mailto:johnolaitan22@gmail.com)
+**Portfolio** — [ope-devx-portfolio.vercel.app](https://ope-devx-portfolio.vercel.app)  
+**Email** — johnolaitan22@gmail.com  
+**GitHub** — You're already here.
+
+&nbsp;
 
 ---
 
-<sub>I only list skills I've shipped with.</sub>
+<sub>I don't list skills I can't defend. Every technology on this page is something I've shipped with.</sub>
