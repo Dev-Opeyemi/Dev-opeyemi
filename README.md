@@ -1,6 +1,6 @@
 <img src="./banner.svg" alt="Opeyemi Olaitan — @ope-devx" width="100%"/>
 
-## About Me
+## About Me 🙎
 
 I'm Opeyemi Olaitan, a Software Developrt who builds tools that solve real problems for real people.
 
@@ -10,7 +10,7 @@ I design and ship web products for small businesses — primarily in Nigeria's f
 
 &nbsp;
 
-## What I've Built
+## What I've Built 📽️
 
 <table>
 <tr>
@@ -69,7 +69,7 @@ I run a web design practice building websites for Nigerian restaurants and food 
 
 &nbsp;
 
-## Stack
+## Stack & Technologies ⚙ 
 
 **FRONTEND**
 
@@ -90,7 +90,7 @@ I run a web design practice building websites for Nigerian restaurants and food 
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF)
-![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTE3LjU4MyAxLjc1MmExLjI5NSAxLjI5NSAwIDAwLS45OTYuMjA2TDkuNDMgOC41NTZsLTQuNDk2LTMuNDFhLjg2NC44NjQgMCAwMC0xLjEuMTI2TC4yNTIgOC4zNjVhLjg2My44NjMgMCAwMC4wMDEgMS4xNjNMMy42MiAxMiAuMjUzIDE0LjQ3M2EuODYzLjg2MyAwIDAwLS4wMDEgMS4xNjNsMy41ODMgMy4wOTNhLjg2NS44NjUgMCAwMDEuMS4xMjZsNC40OTYtMy40MSA3LjE1NiA2LjU5OGExLjI5NyAxLjI5NyAwIDAwLjk5Ny4yMDdBMS4yOTQgMS4yOTQgMCAwMDE4Ljg3NSAyMVYzYTEuMjk0IDEuMjk0IDAgMDAtMS4yOTItMS4yNDh6TTYuMjQgMTJsNC43NC0zLjU5NHYtLjAwMUwxNy4yIDQuMDQ4djUuMjE4TDExLjgyIDEybDUuMzggNC4wMjh2NC44NzZMMTAuOTggMTUuNTk1eiIgZmlsbD0iIzAwN0FDQyIvPjwvc3ZnPg==&logoColor=007ACC)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-20232A?style=for-the-badge&logo=anthropic&logoColor=D97757)
 
 **DEPLOY**
@@ -111,7 +111,7 @@ I run a web design practice building websites for Nigerian restaurants and food 
 
 &nbsp;
 
-## Let's connect
+## Let's connect 🌐
 
 **Portfolio** — [ope-devx-portfolio.vercel.app](https://ope-devx-portfolio.vercel.app)  
 **Email** — johnolaitan22@gmail.com  
@@ -119,7 +119,7 @@ I run a web design practice building websites for Nigerian restaurants and food 
 
 &nbsp;
 
-## My Socials
+## My Socials 📶
 
 <p align="left">
   <a href="https://www.instagram.com/ope_devx/"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="28"/></a>&nbsp;&nbsp;&nbsp;
