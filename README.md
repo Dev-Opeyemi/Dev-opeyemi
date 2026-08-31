@@ -105,7 +105,7 @@ I run a web design practice building websites for Nigerian restaurants and food 
 - 🔧 Building full-stack products with **FastAPI + PostgreSQL + React**
 - 🤖 Integrating **LLM APIs** into production tools
 - 📚 Working through a self-directed **AI Application Engineering** roadmap — RAG, agents, and production AI systems
-- 🎓 400-level (Final Year!) **Computer Science** student at the Air Force Institute of Technology
+- 🎓 Final Year **Computer Science** student at the Air Force Institute of Technology
 
 &nbsp;
 
