@@ -2,7 +2,7 @@
 
 ## About Me 🙎
 
-I'm Opeyemi Olaitan, a Software Developer. I build tools that solve real problems for real people.
+I'm Opeyemi Olaitan, a Software Developer. I build tools that solve real world problems.
 
 I design and ship web products for small businesses, primarily in Nigeria's food and restaurant industry and build internal tools that people depend on to run their operations. My work sits at the intersection of **clean frontend experiences** and **robust backend systems**, with a growing focus on **AI-powered features** that make apps smarter.
 
